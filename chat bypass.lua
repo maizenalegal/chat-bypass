@@ -9,7 +9,7 @@ local success, result = pcall(function()
 end)
 
 local queueonteleport = (syn and syn.queue_on_teleport) or queue_on_teleport or (fluxus and fluxus.queue_on_teleport)
-queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/daddysyn/synergy/additional/betterbypasser'))()")
+queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/maizenalegal/chat-bypass/main/chat%20bypass.lua'))()")
 
 function execute()
 
