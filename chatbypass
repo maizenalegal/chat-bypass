@@ -620,7 +620,6 @@ local q = {
     ["where"] = "wh{{aieixzvzx:ere}}",
     ["see"] = "se{{aieixzvzx:e}}",
     ["do"] = "d{{aieixzvzx:o}}",
-    ["to"] = "t{{aieixzvzx:o}}",
     ["of"] = "o{{aieixzvzx:f}}",
     ["he"] = "h{{aieixzvzx:e}}",
     ["she"] = "sh{{aieixzvzx:e}}",
